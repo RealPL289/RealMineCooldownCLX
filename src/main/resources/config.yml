@@ -1,0 +1,11 @@
+item-use-cooldowns:
+  enchanted_golden_apple: 10
+  golden_apple: 8
+  ender_pearl: 6
+  firework_rocket: 4
+  chorus_fruit: 2
+
+messages:
+  cooldown-message: "&fПожалуйста, подождите &6%d сек. &fдля использования предмета!"
+  no-permission-message: "&cУ вас нет разрешения на использование этой команды!"
+  reload-message: "&aКонфигурация перезагружена!"

@@ -1,0 +1,9 @@
+name: RealMineCooldownCLX
+version: '${project.version}'
+main: ru.meinych15.realminecooldownclx.RealMineCooldownCLX
+api-version: '1.16'
+depend: [CombatLogX]
+commands:
+  rmcooldownclx:
+    description: "Перезагрузка конфига"
+    usage: "/rmcooldownclx reload"
