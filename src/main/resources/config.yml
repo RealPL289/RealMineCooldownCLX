@@ -5,7 +5,15 @@ item-use-cooldowns:
   firework_rocket: 4
   chorus_fruit: 2
 
+settings:
+  message-enabled: true
+  actionbar-enabled: true
+  title-enabled: true
+
 messages:
   cooldown-message: "&fПожалуйста, подождите &6%d сек. &fдля использования предмета!"
+  cooldown-actionbar: "&fПожалуйста, подождите &6%d сек. &fдля использования предмета!"
+  cooldown-title: "&6Задержка"
+  cooldown-subtitle: "&fПодождите &6%d сек."
   no-permission-message: "&cУ вас нет разрешения на использование этой команды!"
   reload-message: "&aКонфигурация перезагружена!"
